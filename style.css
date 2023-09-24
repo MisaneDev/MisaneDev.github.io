@@ -1,0 +1,57 @@
+img{ 
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black
+}
+
+body{
+    background-color: rgba(243, 0, 162, 0.363);
+}
+p {
+    color: purple;
+    font-weight: medium bold;
+}
+#t1{
+    color: rgb(94, 8, 94);
+    font-style: oblique;
+    font-weight: bold
+
+}
+#t2{
+    color: rgb(94, 8, 94);
+    font-style: oblique;
+}#t3{
+    color: rgb(94, 8, 94);
+    font-style: oblique;
+}#t4{
+    color: rgb(94, 8, 94);
+    font-style: oblique;
+}#t5{
+    color: rgb(94, 8, 94);
+    font-style: oblique;
+    text-decoration: underline overline line-through ;
+}
+#t6{
+    color: rgb(94, 8, 94);
+    font-style: oblique;
+}
+#t1{
+    text-decoration: underline;
+}
+#p1{
+    text-decoration: underline;
+}
+.destaque {
+    background: rgb(202, 128, 252);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.fonte{
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    color: rgb(255, 247, 132);
+    }
+    a:hover {
+    color: rgb(255, 50, 112);
+    }
+    
